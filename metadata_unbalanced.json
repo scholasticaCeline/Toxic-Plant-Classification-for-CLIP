@@ -207,12 +207,6 @@
     {
         "slang": "Boxelder",
         "scientific_name": "Acer negundo L.",
-        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/817.jpg",
-        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the left side of the picture."
-    },
-    {
-        "slang": "Boxelder",
-        "scientific_name": "Acer negundo L.",
         "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/820.jpg",
         "description": "A shot of a Boxelder (Acer negundo L.) branch, with its leaves drooping down to the ground."
     },
@@ -221,6 +215,66 @@
         "scientific_name": "Acer negundo L.",
         "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/822.jpg",
         "description": "A Boxelder (Acer negundo L.) plant in a forest, blending in with other plants."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/823.jpg",
+        "description": "A Boxelder (Acer negundo L.) plant in a forest, blending in with other plants."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/824.jpg",
+        "description": "A good Boxelder (Acer negundo L.) shot, with its leaves showing a vibrant hue of green."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/825.jpg",
+        "description": "A good Boxelder (Acer negundo L.) shot, with its leaves showing a vibrant hue of green."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/826.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/827.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/828.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/829.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/830.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/831.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
+    },
+    {
+        "slang": "Boxelder",
+        "scientific_name": "Acer negundo L.",
+        "image_path": "tpc-imgs/nontoxic_images/001/unbalanced/832.jpg",
+        "description": "A shot of Boxelder (Acer negundo L.) leaves on the tree on the picture."
     },
     {
         "slang": "Boxelder",
@@ -478,321 +532,327 @@
     {
         "slang": "Fragrant Sumac",
         "scientific_name": "Rhus aromatica",
-        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/989.jpg",
+        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/986.jpg",
         "description": "A focused picture of Fragrant Sumac's (Rhus aromatica) branch with healthy, green leaves growing with a blurred background." 
     },  
     {
         "slang": "Fragrant Sumac",
         "scientific_name": "Rhus aromatica",
-        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/990.jpg",
-        "description": "A focused picture of Fragrant Sumac's (Rhus aromatica) branch with healthy, green leaves growing in the dark." 
+        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/987.jpg",
+        "description": "A focused picture of Fragrant Sumac's (Rhus aromatica) branch with healthy, green leaves growing with a blurred background." 
     },  
     {
         "slang": "Fragrant Sumac",
         "scientific_name": "Rhus aromatica",
-        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/991.jpg",
-        "description": "Fragrant Sumac (Rhus aromatica) from afar, showing green leaves but few growing in each branch." 
+        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/988.jpg",
+        "description": "A focused picture of Fragrant Sumac's (Rhus aromatica) branch with healthy, green leaves growing with a blurred background." 
+    },  
+    {
+        "slang": "Fragrant Sumac",
+        "scientific_name": "Rhus aromatica",
+        "image_path": "tpc-imgs/nontoxic_images/004/unbalanced/989.jpg",
+        "description": "A focused picture of Fragrant Sumac's (Rhus aromatica) branch with healthy, green leaves growing with a blurred background." 
     },  
 
 
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/007.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/007.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose leaves can turn red or orange in autumn."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/018.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/018.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that produces urushiol, an irritating oil."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/067.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/067.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can survive in sandy or rocky soils."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/068.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/068.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often confused with poison ivy due to similar leaves."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/080.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/080.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can cause blisters and intense itching."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/107.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/107.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant with a shrubby appearance in open areas."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/108.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/108.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that thrives in well-drained soils."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/127.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/127.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often mistaken for non-toxic shrubs."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/141.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/141.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can grow up to 3 feet tall."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/342.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/342.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose effects can last for weeks if untreated."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/348.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/348.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that releases urushiol on contact."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/349.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/349.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant native to the south United States."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/352.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/352.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often found in pine and scrub forests."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/376.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/376.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant with compound leaves arranged in threes."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/383.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/383.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose oil can cling to clothing and tools."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/390.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/390.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that causes rash, itching, and swelling."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/399.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/399.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant with greenish-white berries in late summer."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/414.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/414.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that adapts to different soil conditions."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/421.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/421.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant known for its variable leaf shapes."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/431.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/431.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant dangerous even when the plant is dormant."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/438.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/438.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that resembles white oak leaves."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/449.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/449.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often confused with poison ivy."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/478.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/478.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that loses its leaves in winter."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/493.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/493.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that thrives in sandy or rocky soils."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/528.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/528.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can grow as a shrub or low plant."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/547.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/547.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can cause airborne reactions if burned."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/571.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/571.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose urushiol can remain active for years."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/671.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/671.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant frequently found in dry, open woodlands."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/708.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/708.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant with hair-covered stems and leaves."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/582.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/582.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can regrow quickly after disturbance."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/529.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/529.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that produces small greenish flowers."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/520.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/520.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose oil can stick to clothes and tools."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/518.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/518.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant with leaves that grow in groups of three."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/448.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/448.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can cause rashes within 12-72 hours."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/411.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/411.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often found in south U.S. regions."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/350.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/350.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that may turn red in autumn."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/332.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/332.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that spreads through underground stems."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/321.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/321.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that animals can eat without harm."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/287.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/287.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose rash may spread by indirect contact."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/242.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/242.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that should never be burned due to toxic fumes."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/218.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/218.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose oil, urushiol, causes allergic reactions."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/211.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/211.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant often confused with poison ivy."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/209.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/209.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose oil can remain active for years on surfaces."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/147.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/147.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that grows as a low shrub in dry, sandy soil."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/142.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/142.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that loses leaves in winter but stays hazardous."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/122.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/122.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that adapts to open woods and dry thickets."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/954.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/954.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that has hairy leaf undersides."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/955.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/955.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that can cause severe itching and blisters."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/956.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/956.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant that is hard to eliminate without herbicide."
     },
     {
         "slang": " Poison Oak",
         "scientific_name": "Toxicodendron pubescens",
-        "image_path": "tpc-imgs/toxic_images/001/balanced/957.jpg",
+        "image_path": "tpc-imgs/toxic_images/001/unbalanced/957.jpg",
         "description": " Poison Oak (Toxicodendron pubescens) is a toxic plant whose allergic effects worsen with repeated contact."
     },
 
@@ -800,602 +860,301 @@
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/017.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/017.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause itchy, blistering rashes when touched."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/018.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/018.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that spreads by underground stems and seeds."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/028.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/028.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant often found growing along fences and forest edges."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/029.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/029.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant recognized by its three leaflets with pointed tips."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/030.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/030.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant whose oil, urushiol, remains active even on dead leaves."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/031.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/031.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that thrives in both sun and shade."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/106.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/106.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can grow as a vine or low shrub."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/107.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/107.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause severe reactions in sensitive individuals."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/108.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/108.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that changes leaf color seasonally, often turning red."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/127.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/127.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that should not be burned due to airborne urushiol."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/128.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/128.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause itchy, blistering rashes when touched."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/175.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/175.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that spreads by underground stems and seeds."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/176.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/176.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant often found growing along fences and forest edges."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/177.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/177.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant recognized by its three leaflets with pointed tips."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/180.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/180.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant whose oil, urushiol, remains active even on dead leaves."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/181.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/181.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that thrives in both sun and shade."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/221.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/221.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can grow as a vine or low shrub."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/222.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/222.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause severe reactions in sensitive individuals."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/223.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/223.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that changes leaf color seasonally, often turning red."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/224.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/224.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that should not be burned due to airborne urushiol."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/232.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/232.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause itchy, blistering rashes when touched."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/233.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/233.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that spreads by underground stems and seeds."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/256.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/256.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant often found growing along fences and forest edges."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/268.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/268.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant recognized by its three leaflets with pointed tips."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/269.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/269.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant whose oil, urushiol, remains active even on dead leaves."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/274.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/274.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that thrives in both sun and shade."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/301.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/301.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can grow as a vine or low shrub."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/323.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/323.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause severe reactions in sensitive individuals."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/327.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/327.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that changes leaf color seasonally, often turning red."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/328.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/328.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that should not be burned due to airborne urushiol."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/329.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/329.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause itchy, blistering rashes when touched."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/361.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/361.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that spreads by underground stems and seeds."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/373.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/373.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant often found growing along fences and forest edges."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/374.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/374.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant recognized by its three leaflets with pointed tips."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/414.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/414.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant whose oil, urushiol, remains active even on dead leaves."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/451.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/451.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that thrives in both sun and shade."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/519.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/519.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can grow as a vine or low shrub."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/555.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/555.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause severe reactions in sensitive individuals."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/562.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/562.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that changes leaf color seasonally, often turning red."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/586.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/586.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that should not be burned due to airborne urushiol."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/605.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/605.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause itchy, blistering rashes when touched."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/634.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/634.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that spreads by underground stems and seeds."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/635.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/635.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant often found growing along fences and forest edges."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/639.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/639.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant recognized by its three leaflets with pointed tips."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/686.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/686.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant whose oil, urushiol, remains active even on dead leaves."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/703.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/703.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that thrives in both sun and shade."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/704.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/704.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can grow as a vine or low shrub."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/714.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/714.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that can cause severe reactions in sensitive individuals."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/753.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/753.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that changes leaf color seasonally, often turning red."
     },
     {
         "slang": " Poison Ivy",
         "scientific_name": "Toxicodendron radicans",
-        "image_path": "tpc-imgs/toxic_images/002/balanced/773.jpg",
+        "image_path": "tpc-imgs/toxic_images/002/unbalanced/773.jpg",
         "description": " Poison Ivy (Toxicodendron radicans) is a toxic plant that should not be burned due to airborne urushiol."
-    },
-
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/007.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant often found in open woods or along riverbanks"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/017.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can cause severe skin irritation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/019.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant recognizable by its three leaflets"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/025.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can grow as a shrub or small plant"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/028.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant thrives in disturbed areas"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/033.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant leaflets can be shiny or dull"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/034.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant typically grows in northern regions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/035.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant causes allergic skin reactions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/036.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant urushiol oil causes inflammation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/038.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant does not climb like  Poison Ivy"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/039.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant often found in open woods or along riverbanks"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/047.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can cause severe skin irritation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/051.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant recognizable by its three leaflets"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/064.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can grow as a shrub or small plant"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/065.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant thrives in disturbed areas"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/079.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant leaflets can be shiny or dull"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/080.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant typically grows in northern regions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/089.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant causes allergic skin reactions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/090.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant urushiol oil causes inflammation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/096.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant does not climb like  Poison Ivy"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/113.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant often found in open woods or along riverbanks"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/114.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can cause severe skin irritation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/166.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant recognizable by its three leaflets"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/171.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can grow as a shrub or small plant"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/174.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant thrives in disturbed areas"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/175.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant leaflets can be shiny or dull"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/190.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant typically grows in northern regions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/203.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant causes allergic skin reactions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/209.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant urushiol oil causes inflammation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/210.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant does not climb like  Poison Ivy"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/217.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant often found in open woods or along riverbanks"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/218.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can cause severe skin irritation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/219.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant recognizable by its three leaflets"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/298.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can grow as a shrub or small plant"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/324.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant thrives in disturbed areas"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/401.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant leaflets can be shiny or dull"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/410.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant typically grows in northern regions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/439.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant causes allergic skin reactions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/447.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant urushiol oil causes inflammation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/663.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant does not climb like  Poison Ivy"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/667.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant often found in open woods or along riverbanks"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/695.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can cause severe skin irritation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/698.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant recognizable by its three leaflets"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/811.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant can grow as a shrub or small plant"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/913.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant thrives in disturbed areas"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/921.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant leaflets can be shiny or dull"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/930.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant typically grows in northern regions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/931.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant causes allergic skin reactions"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/932.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant urushiol oil causes inflammation"
-    },
-    {
-        "slang": "Poison Sumac",
-        "scientific_name": "Toxicodendron vernix",
-        "image_path": "tpc-imgs/toxic_images/004/balanced/911.jpg",
-        "description": "Poison Sumac (Toxicodendron vernix) is a toxic plant does not climb like  Poison Ivy"
     }
 ]
